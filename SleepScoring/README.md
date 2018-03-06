@@ -1,1 +1,1 @@
-Manual Sleep Scoring GUI, Andres Grosmark
+Manual Sleep Scoring GUI, by Andres Grosmark
