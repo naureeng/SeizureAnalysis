@@ -1,2 +1,1 @@
-Code written by Andres Grosmark
-Manual Sleep Scoring GUI 
+Manual Sleep Scoring GUI, Andres Grosmark
